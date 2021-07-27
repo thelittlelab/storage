@@ -1,0 +1,4 @@
+  1  conda activate peye
+  2  cd peyecoder/
+  3  python run-peyecoder.py
+  4  history > notes.txt
